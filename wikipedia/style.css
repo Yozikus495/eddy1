@@ -8,7 +8,7 @@ body {
   line-height: 1.5;
 }
 header {
-  background: url(imgs/1301170421_1.png);
+  background: url(imgs/1301170421_1.png) fixed;
 }
 header h1 {
   height: 400px;

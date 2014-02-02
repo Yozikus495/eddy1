@@ -1,0 +1,43 @@
+* {
+    margin: 0;
+    padding: 0;
+  }
+  body {
+    background-color: #34ab00;
+    color: #fff;
+    font-family: sans-serif;
+    font-size: 20px;
+    text-transform: uppercase;
+  }
+  a {
+  	color: #fff;
+  	text-decoration: none;
+  }
+  header {
+  position: relative;
+  height: 230px;
+  border: 2px solid red;
+}
+  header .logo {
+    position: absolute;
+    left: 100px;
+    top: 125px;
+    border: 2px solid blue;
+  }
+  	header .logo h1 {
+  		font-size: 20px;
+  		font-weight: normal;
+  	}
+  header nav {
+    position: absolute;
+    right: 100px;
+    top:170px;
+    border: 2px solid orange;
+  }
+  header nav li {
+  	display: inline;
+  	margin-left: 10px;
+  }
+  header nav a {
+  	letter-spacing: 4px;
+  }
