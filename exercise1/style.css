@@ -1,0 +1,19 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+h1 {
+  color: red;
+}
+h2 {
+  line-height: 60px;
+  color: violet;
+  margin-left: -50px;
+}
+section,
+aside {
+margin-left: 50px;
+}
+section .another {
+	color: green;
+}
