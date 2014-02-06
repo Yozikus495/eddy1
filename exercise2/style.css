@@ -1,0 +1,51 @@
+* {
+    margin: 0;
+    padding: 0;
+  }
+body {
+  padding: 50px;
+}
+section {
+  position: relative;
+  background-color: #FFC400;
+  border: 2px solid black;
+  height: 300px;
+  width: 300px;
+  }
+section header {
+  position: absolute;
+  background-color: #0095FF;
+  border: 2px solid black;
+  top: 20px;
+  left: 20px;
+  height: 80px;
+  width: 50px;
+  }
+section nav {
+  position: absolute;
+  background-color: #B5FFB8;
+  border: 2px solid black;
+  top: 50px;
+  right: 30px;
+  height: 80px;
+  width: 150px;
+  }
+section section {
+  position: absolute;
+  background-color: #FF75ED;
+  border: 2px solid black;
+  bottom: 50px;
+  left: 10px;
+  height: 70px;
+  width: 170px;
+}
+section aside {
+  position: absolute;
+  background-color: #FF7575;
+  border: 2px solid black;
+  bottom: 10px;
+  right: 20px;
+  height: 140px;
+  width: 60px;
+}
+  
