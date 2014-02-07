@@ -9,7 +9,6 @@
   	<h1>Main Title</h1>
     <section>
   	<h2>Subtitle</h2>	
-    </a>
   		<ul>
     		<li>One</li>
     		<li><a class="another">Two</a></li>
