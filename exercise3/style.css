@@ -1,0 +1,25 @@
+* {
+    margin: 0;
+    padding: 0;
+  }
+body {
+	position: relative;
+}
+nav {
+	background-color: coral;
+	position: relative;
+  	float: left;
+  	width: 30%;
+}
+section {
+	background-color: khaki;
+	position: relative;
+  	float: left;
+  	width: 40%;
+}
+aside {
+	background-color: #c1ffc1;
+	position: relative;
+  	float: left;
+  	width: 30%;
+}
